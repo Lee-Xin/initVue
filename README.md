@@ -17,3 +17,9 @@ node index.js
 
 ## 访问
 浏览器访问 http://localhost:8080
+
+## 打包
+```bash
+npm run build
+```
+打包后的文件在 ./dist
